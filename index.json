@@ -1,0 +1,339 @@
+{
+  "library": "bagpipe",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/bagpipe",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/bagpipe-opus-48",
+  "branch": "main",
+  "fileCount": 26,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/",
+  "files": [
+    {
+      "file": "A4_31.opus",
+      "name": "A4_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/A4_31.opus",
+      "size": 60738,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "A4_32.opus",
+      "name": "A4_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/A4_32.opus",
+      "size": 54955,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As4_31.opus",
+      "name": "As4_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/As4_31.opus",
+      "size": 71198,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "As4_32.opus",
+      "name": "As4_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/As4_32.opus",
+      "size": 65645,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B4_31.opus",
+      "name": "B4_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/B4_31.opus",
+      "size": 65332,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "B4_32.opus",
+      "name": "B4_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/B4_32.opus",
+      "size": 67196,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5_31.opus",
+      "name": "C5_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/C5_31.opus",
+      "size": 65450,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5_32.opus",
+      "name": "C5_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/C5_32.opus",
+      "size": 55479,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs5_31.opus",
+      "name": "Cs5_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/Cs5_31.opus",
+      "size": 62270,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Cs5_32.opus",
+      "name": "Cs5_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/Cs5_32.opus",
+      "size": 57650,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_31.opus",
+      "name": "D5_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/D5_31.opus",
+      "size": 83541,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "D5_32.opus",
+      "name": "D5_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/D5_32.opus",
+      "size": 66225,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds5_31.opus",
+      "name": "Ds5_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/Ds5_31.opus",
+      "size": 61517,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Ds5_32.opus",
+      "name": "Ds5_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/Ds5_32.opus",
+      "size": 56094,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5_31.opus",
+      "name": "E5_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/E5_31.opus",
+      "size": 39010,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5_32.opus",
+      "name": "E5_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/E5_32.opus",
+      "size": 48955,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F4_31.opus",
+      "name": "F4_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/F4_31.opus",
+      "size": 37671,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F5_31.opus",
+      "name": "F5_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/F5_31.opus",
+      "size": 61817,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "F5_32.opus",
+      "name": "F5_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/F5_32.opus",
+      "size": 59045,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5_31.opus",
+      "name": "Fs5_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/Fs5_31.opus",
+      "size": 69571,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5_32.opus",
+      "name": "Fs5_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/Fs5_32.opus",
+      "size": 75767,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4_31.opus",
+      "name": "G4_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/G4_31.opus",
+      "size": 53877,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G4_32.opus",
+      "name": "G4_32.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/G4_32.opus",
+      "size": 55638,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "G5_31.opus",
+      "name": "G5_31.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/G5_31.opus",
+      "size": 72462,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "drone_G2_1.opus",
+      "name": "drone_G2_1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/drone_G2_1.opus",
+      "size": 25420,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "drone_G3_3.opus",
+      "name": "drone_G3_3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/bagpipe-opus-48/main/drone_G3_3.opus",
+      "size": 74747,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "43": [
+      "drone_G2_1.opus"
+    ],
+    "55": [
+      "drone_G3_3.opus"
+    ],
+    "65": [
+      "F4_31.opus"
+    ],
+    "67": [
+      "G4_31.opus",
+      "G4_32.opus"
+    ],
+    "69": [
+      "A4_31.opus",
+      "A4_32.opus"
+    ],
+    "71": [
+      "B4_31.opus",
+      "B4_32.opus"
+    ],
+    "72": [
+      "C5_31.opus",
+      "C5_32.opus"
+    ],
+    "74": [
+      "D5_31.opus",
+      "D5_32.opus"
+    ],
+    "76": [
+      "E5_31.opus",
+      "E5_32.opus"
+    ],
+    "77": [
+      "F5_31.opus",
+      "F5_32.opus"
+    ],
+    "79": [
+      "G5_31.opus"
+    ]
+  }
+}
